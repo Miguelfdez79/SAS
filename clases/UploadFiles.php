@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Description of Listpodcast
+ *
+ * @author Miguel
+ */
+
 class UploadFiles {
 
     private $arrayarchivos = [ Array()];
